@@ -40,7 +40,7 @@
 				<configuration>
 					<includes>
 						<include>
-							testModel4/TestMavenJar.java
+							testModel2/TestJavaInPom.java
 						</include>
 					</includes>
 				</configuration>

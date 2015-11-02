@@ -2,16 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="testModel4.TestMavenJar" duration-ms="21" started-at="2015-11-01T10:49:38Z" finished-at="2015-11-01T10:49:38Z">
+  <suite name="testModel2.TestJavaInPom" duration-ms="50001" started-at="2015-11-02T13:31:32Z" finished-at="2015-11-02T13:32:22Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="21" started-at="2015-11-01T10:49:38Z" finished-at="2015-11-01T10:49:38Z">
-      <class name="testModel4.TestMavenJar">
-        <test-method status="PASS" signature="testJar()[pri:0, instance:testModel4.TestMavenJar@67e92a]" name="testJar" duration-ms="10" started-at="2015-11-01T18:49:38Z" finished-at="2015-11-01T18:49:38Z">
+    <test name="Command line test" duration-ms="50001" started-at="2015-11-02T13:31:32Z" finished-at="2015-11-02T13:32:22Z">
+      <class name="testModel2.TestJavaInPom">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testModel2.TestJavaInPom@1e07d3e]" name="beforeClass" is-config="true" duration-ms="36777" started-at="2015-11-02T21:31:32Z" finished-at="2015-11-02T21:32:09Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testJar -->
-      </class> <!-- testModel4.TestMavenJar -->
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="loginMail126()[pri:0, instance:testModel2.TestJavaInPom@1e07d3e]" name="loginMail126" duration-ms="11227" started-at="2015-11-02T21:32:09Z" finished-at="2015-11-02T21:32:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMail126 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testModel2.TestJavaInPom@1e07d3e]" name="afterClass" is-config="true" duration-ms="1930" started-at="2015-11-02T21:32:20Z" finished-at="2015-11-02T21:32:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testModel2.TestJavaInPom -->
     </test> <!-- Command line test -->
-  </suite> <!-- testModel4.TestMavenJar -->
+  </suite> <!-- testModel2.TestJavaInPom -->
 </testng-results>
