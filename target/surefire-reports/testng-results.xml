@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testModel4.TestMavenJar" duration-ms="21" started-at="2015-11-01T10:49:38Z" finished-at="2015-11-01T10:49:38Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="21" started-at="2015-11-01T10:49:38Z" finished-at="2015-11-01T10:49:38Z">
+      <class name="testModel4.TestMavenJar">
+        <test-method status="PASS" signature="testJar()[pri:0, instance:testModel4.TestMavenJar@67e92a]" name="testJar" duration-ms="10" started-at="2015-11-01T18:49:38Z" finished-at="2015-11-01T18:49:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJar -->
+      </class> <!-- testModel4.TestMavenJar -->
+    </test> <!-- Command line test -->
+  </suite> <!-- testModel4.TestMavenJar -->
+</testng-results>
